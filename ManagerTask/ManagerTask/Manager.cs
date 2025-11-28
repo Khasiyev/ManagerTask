@@ -1,5 +1,13 @@
-﻿namespace ManagerTask;
+﻿using System.Xml.Linq;
 
-public class Manager
+namespace ManagerTask;
+
+public class Manager: Person
 {
+    public Manager(string name, string surname) : base(name, surname)
+    {
+        Name = name;
+        Surname = surname;
+    }
+
 }
