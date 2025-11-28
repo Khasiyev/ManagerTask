@@ -10,4 +10,9 @@ public class Person
         Name = name;
         Surname = surname;
     }
+    public virtual void showInfo()
+    {
+        Console.WriteLine($"Name => {Name}, Surname => {Surname}");
+    }
+
 }

@@ -9,5 +9,8 @@ public class Manager: Person
         Name = name;
         Surname = surname;
     }
-
+    public override void showInfo()
+    {
+        Console.WriteLine($"Manager Name => {Name}, Surname => {Surname}");
+    }
 }

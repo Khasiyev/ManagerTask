@@ -7,5 +7,8 @@ public class Developer: Person
         Name = name;
         Surname = surname;
     }
-
+    public override void showInfo()
+    {
+        Console.WriteLine($"Developer Name => {Name}, Surname => {Surname}");
+    }
 }

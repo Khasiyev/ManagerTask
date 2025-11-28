@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|c:\\users\\asus\\desktop\\managertask\\managertask\\managertask\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|solutionrelative:managertask\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|c:\\users\\asus\\desktop\\managertask\\managertask\\managertask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|solutionrelative:managertask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|c:\\users\\asus\\desktop\\managertask\\managertask\\managertask\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|solutionrelative:managertask\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|c:\\users\\asus\\desktop\\managertask\\managertask\\managertask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|solutionrelative:managertask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|c:\\users\\asus\\desktop\\managertask\\managertask\\managertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|solutionrelative:managertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|c:\\users\\asus\\desktop\\managertask\\managertask\\managertask\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06940A25-81C9-4F1C-B45F-8B7C1B52509D}|ManagerTask\\ManagerTask.csproj|solutionrelative:managertask\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Developer.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Developer.cs",
               "RelativeDocumentMoniker": "ManagerTask\\Developer.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Developer.cs",
               "RelativeToolTip": "ManagerTask\\Developer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T14:31:09.529Z",
               "EditorCaption": ""
@@ -49,35 +49,36 @@
               "RelativeDocumentMoniker": "ManagerTask\\Manager.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Manager.cs",
               "RelativeToolTip": "ManagerTask\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T14:30:54.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Person.cs",
               "RelativeDocumentMoniker": "ManagerTask\\Person.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Person.cs",
               "RelativeToolTip": "ManagerTask\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-28T14:30:35.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Program.cs",
               "RelativeDocumentMoniker": "ManagerTask\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\ManagerTask\\ManagerTask\\ManagerTask\\Program.cs",
               "RelativeToolTip": "ManagerTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T14:26:24.073Z"
+              "WhenOpened": "2025-11-28T14:26:24.073Z",
+              "EditorCaption": ""
             }
           ]
         }
